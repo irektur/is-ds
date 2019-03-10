@@ -1,1 +1,2 @@
 modyfikuje ten plik na potrzeby cwiczenia
+a teraz zmienie sobie ten plik i znow zrobie git fetch
